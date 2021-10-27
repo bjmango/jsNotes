@@ -18,7 +18,7 @@ const walk = person.walk.bind(person)
 walk()
 
 console.log(`ES6 ⬇️ 🔥`);
-// 🔥 ES6 NOTE:
+// 🔥 ES6 NOTE: 
 // 1. what does the 'this' keyword represent is determined how the method is called.
 //      if a function is called as a method of an object, 'this' will always return a reference to that object. (the object left to the dot)
 //      if a function is called as stand alone object or outside object, 'this' will return global object (Window). Sometimes, 'this' will return undefined when code is executed under restricted mode, like React app.
