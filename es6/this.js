@@ -1,6 +1,6 @@
 // 👉 this keyword
-// 🙈 ES5
-console.log(`ES5 ⬇️ 🙈`);
+// 🙈 💩 ES5
+console.log(`ES5 ⬇️ 🙈 💩`);
 const person = {
   name: 'Eric',
   walk() {
